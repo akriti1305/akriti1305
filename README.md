@@ -40,7 +40,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,dart,js,ts,sql,c" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,dart,js,ts,sql" />
 
 ### Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=flutter,react,html,css" />
@@ -65,7 +65,7 @@ Blockchain-based image verification system using geo-location and SHA-256 hashin
 Stores image proof securely on Ethereum blockchain for tamper-proof verification.
 
 ### Tech Used
-`Flutter` `Node.js` `Solidity` `Ethereum` `SHA-256` `Express.js`
+`Flutter` `Node.js` `Solidity` `Ethereum` `Ganache` `MetaMask` `Ethers.js` `SHA-256` `Express.js`
 
 ---
 
