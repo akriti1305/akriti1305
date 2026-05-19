@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,matlab" />
 
 </div>
 
